@@ -10,6 +10,7 @@ import SkillsSection from "./hero-section/SkillsSection";
 import GuestSpeakers from "./hero-section/GuestSpeakers";
 import TestimonialVideo from "../bootcamp-page/VideoTestimonial";
 
+
 const LandingPageLayout = () => {
   return (
     <>
